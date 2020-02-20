@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../Libraries/exude-0.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/gluegen-rt-2.1.0-natives-linux-amd64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/gluegen-rt-2.1.3-natives-windows-amd64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/gluegen-rt-2.1.3-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/gluegen-rt-2.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/gluegen-rt-natives-windows-amd64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/gluegen-rt.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/jogamp-fat-java-src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/jogamp-fat-test-java-src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/jogamp-fat-test.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/jogamp-fat.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/jogl-all-2.1.3-natives-linux-amd64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/jogl-all-2.1.3-natives-windows-amd64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/jogl-all-2.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/lucene-snowball-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/org.apache.tika.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/org.jzy3d-0.9-src.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/org.jzy3d-0.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/porter-stemmer-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/CoreNLP-to-HTML.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/LIBRARY-LICENSES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/RESOURCE-LICENSES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/SemgrexDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/ShiftReduceDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/StanfordCoreNlpDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/StanfordDependenciesManual.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/corenlp.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/ejml-0.23-src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/ejml-0.23.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/input.txt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/javax.activation-api-1.2.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/javax.activation-api-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/javax.json-api-1.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/javax.json.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/jaxb-api-2.4.0-b180830.0359-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/jaxb-api-2.4.0-b180830.0359.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/jaxb-core-2.3.0.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/jaxb-core-2.3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/jaxb-impl-2.4.0-b180830.0438-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/jaxb-impl-2.4.0-b180830.0438.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/joda-time-2.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/joda-time.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/jollyday-0.4.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/jollyday.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/patterns/example.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/patterns/goldnames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/patterns/goldplaces.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/patterns/names.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/patterns/otherpeople.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/patterns/places.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/patterns/presidents.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/patterns/stopwords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/pom-java-11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/protobuf.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/slf4j-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/slf4j-simple.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2-models.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/sutime/british.sutime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/sutime/defs.sutime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/sutime/english.holidays.sutime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/sutime/english.sutime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/sutime/spanish.sutime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/tokensregex/color.input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/tokensregex/color.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/tokensregex/color.rules.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/tokensregex/retokenize.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/xom-1.2.10-src.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/xom.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-english-corenlp-2018-10-05-models.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_math3_3_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/commons_math3_3_6_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SALab3/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SALab3/sample/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SALab3/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SALab3/sample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SALab4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/culture/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/culture/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/graphics/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/graphics/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/graphics/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/graphics/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/graphics/4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/graphics/5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/graphics/6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/graphics/7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/graphics/8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/graphics/9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/medicine/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/medicine/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/medicine/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/medicine/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/medicine/4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/medicine/5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/medicine/6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/medicine/7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/medicine/8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/medicine/9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/space/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/space/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/space/3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/space/4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/src/main/java/StanfordLemmatizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SALab4/src/main/java/StanfordLemmatizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab4/target/classes/StanfordLemmatizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SALab4/target/classes/StanfordLemmatizer.class" afterDir="false" />
+    </list>
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="688">
+              <caret line="163" column="109" selection-start-line="163" selection-start-column="109" selection-end-line="163" selection-end-column="109" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2295">
+              <caret line="138" column="22" selection-start-line="138" selection-start-column="22" selection-end-line="138" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>imageView</find>
+      <find>chartHistogram</find>
+      <find>imageHistogram.brightness</find>
+      <find>imageHistogram</find>
+      <find>L</find>
+      <find>.getBrightness()</find>
+      <find>getMaxElement</find>
+      <find>dispersion_value</find>
+      <find>dis</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>imageHistogram1</replace>
+      <replace>imageHistogram</replace>
+      <replace>copy</replace>
+      <replace>imageHistogram2</replace>
+      <replace>.getValuePixel()</replace>
+    </replaceStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/ImageHistogram.java" />
+        <option value="$PROJECT_DIR$/src/sample/Controller.java" />
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1612" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SALab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SALab3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SALab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SALab3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SALab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SALab3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SALab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555285650496" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../themcuti" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ivanf\IdeaProjects\SA\SALab3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="SALab3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1554201955405" duration="276000" />
+      <workItem from="1554202267160" duration="1440000" />
+      <workItem from="1554203875253" duration="2839000" />
+      <workItem from="1554317142103" duration="2712000" />
+      <workItem from="1554363139851" duration="5405000" />
+      <workItem from="1554404009269" duration="20361000" />
+      <workItem from="1554902718521" duration="311000" />
+      <workItem from="1555254478937" duration="3108000" />
+      <workItem from="1555272410214" duration="12087000" />
+      <workItem from="1555448586906" duration="64000" />
+      <workItem from="1555448804429" duration="630000" />
+      <workItem from="1555449816985" duration="13682000" />
+      <workItem from="1555492681835" duration="1203000" />
+      <workItem from="1555503074005" duration="1523000" />
+      <workItem from="1555516354709" duration="238000" />
+      <workItem from="1555530905587" duration="2459000" />
+      <workItem from="1555578904362" duration="4485000" />
+      <workItem from="1555891216346" duration="16000" />
+      <workItem from="1556615330679" duration="3802000" />
+      <workItem from="1556628218524" duration="111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78054000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.17324094" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32719395" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Problems" order="9" />
+      <window_info anchor="bottom" id="Changes" order="10" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32936078" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="14" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="16" />
+      <window_info anchor="bottom" id="Database Changes" order="17" />
+      <window_info anchor="bottom" id="Terminal" order="18" />
+      <window_info anchor="bottom" id="Statistic" order="19" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JetGradle" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/image1-converted.jpg" />
+    <entry file="file://$PROJECT_DIR$/SALab3.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/javafx.graphics/javafx/scene/image/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="119" column="13" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1.jar!/org/apache/commons/math3/stat/descriptive/rank/Median.class" />
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image3.jpg-converted.jpg" />
+    <entry file="file://$PROJECT_DIR$/image2.jpg" />
+    <entry file="file://$PROJECT_DIR$/image2.jpg-converted.jpg" />
+    <entry file="file://$PROJECT_DIR$/image4.jpg-converted.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image1.jpg" />
+    <entry file="file://$PROJECT_DIR$/image1.jpg-converted.jpg" />
+    <entry file="file://$PROJECT_DIR$/1.txt" />
+    <entry file="file://$PROJECT_DIR$/image12.jpg-converted.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image12.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/ImageHistogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="72" column="41" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2812#2813#0" expanded="true" />
+            <element signature="e#2831#2832#0" expanded="true" />
+            <element signature="e#2869#2870#0" expanded="true" />
+            <element signature="e#2894#2895#0" expanded="true" />
+            <element signature="e#3065#3066#0" expanded="true" />
+            <element signature="e#3084#3085#0" expanded="true" />
+            <element signature="e#3123#3124#0" expanded="true" />
+            <element signature="e#3148#3149#0" expanded="true" />
+            <element signature="e#3175#3176#0" expanded="true" />
+            <element signature="e#3192#3193#0" expanded="true" />
+            <element signature="e#3227#3228#0" expanded="true" />
+            <element signature="e#3248#3249#0" expanded="true" />
+            <element signature="e#3277#3278#0" expanded="true" />
+            <element signature="e#3296#3297#0" expanded="true" />
+            <element signature="e#3335#3336#0" expanded="true" />
+            <element signature="e#3360#3361#0" expanded="true" />
+            <element signature="e#3388#3389#0" expanded="true" />
+            <element signature="e#3406#3407#0" expanded="true" />
+            <element signature="e#3443#3444#0" expanded="true" />
+            <element signature="e#3466#3467#0" expanded="true" />
+            <element signature="e#3500#3501#0" expanded="true" />
+            <element signature="e#3524#3525#0" expanded="true" />
+            <element signature="e#3573#3574#0" expanded="true" />
+            <element signature="e#3608#3609#0" expanded="true" />
+            <element signature="e#3633#3634#0" expanded="true" />
+            <element signature="e#3648#3649#0" expanded="true" />
+            <element signature="e#3679#3680#0" expanded="true" />
+            <element signature="e#3691#3692#0" expanded="true" />
+            <element signature="e#3722#3723#0" expanded="true" />
+            <element signature="e#3743#3744#0" expanded="true" />
+            <element signature="e#3786#3787#0" expanded="true" />
+            <element signature="e#3811#3812#0" expanded="true" />
+            <element signature="e#3852#3853#0" expanded="true" />
+            <element signature="e#3875#3876#0" expanded="true" />
+            <element signature="e#3918#3919#0" expanded="true" />
+            <element signature="e#3943#3944#0" expanded="true" />
+            <element signature="e#3985#3986#0" expanded="true" />
+            <element signature="e#4009#4010#0" expanded="true" />
+            <element signature="e#4057#4058#0" expanded="true" />
+            <element signature="e#4087#4088#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="163" column="109" selection-start-line="163" selection-start-column="109" selection-end-line="163" selection-end-column="109" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="138" column="22" selection-start-line="138" selection-start-column="22" selection-end-line="138" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>bootstrap</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SALab3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-math3-3.6.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

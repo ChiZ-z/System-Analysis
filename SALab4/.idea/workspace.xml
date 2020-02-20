@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2490e7f8-1b66-4eec-a8c5-af81ba8bf161" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Libraries/exude-0.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/gluegen-rt-2.1.0-natives-linux-amd64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/gluegen-rt-2.1.3-natives-windows-amd64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/gluegen-rt-2.1.3-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/gluegen-rt-2.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/gluegen-rt-natives-windows-amd64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/gluegen-rt.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/jogamp-fat-java-src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/jogamp-fat-test-java-src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/jogamp-fat-test.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/jogamp-fat.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/jogl-all-2.1.3-natives-linux-amd64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/jogl-all-2.1.3-natives-windows-amd64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/jogl-all-2.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/lucene-snowball-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/org.apache.tika.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/org.jzy3d-0.9-src.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/org.jzy3d-0.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/porter-stemmer-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/CoreNLP-to-HTML.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/LIBRARY-LICENSES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/RESOURCE-LICENSES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/SemgrexDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/ShiftReduceDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/StanfordCoreNlpDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/StanfordDependenciesManual.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/corenlp.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/ejml-0.23-src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/ejml-0.23.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/input.txt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/javax.activation-api-1.2.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/javax.activation-api-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/javax.json-api-1.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/javax.json.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/jaxb-api-2.4.0-b180830.0359-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/jaxb-api-2.4.0-b180830.0359.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/jaxb-core-2.3.0.1-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/jaxb-core-2.3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/jaxb-impl-2.4.0-b180830.0438-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/jaxb-impl-2.4.0-b180830.0438.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/joda-time-2.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/joda-time.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/jollyday-0.4.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/jollyday.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/patterns/example.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/patterns/goldnames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/patterns/goldplaces.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/patterns/names.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/patterns/otherpeople.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/patterns/places.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/patterns/presidents.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/patterns/stopwords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/pom-java-11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/protobuf.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/slf4j-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/slf4j-simple.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2-models.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/sutime/british.sutime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/sutime/defs.sutime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/sutime/english.holidays.sutime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/sutime/english.sutime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/sutime/spanish.sutime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/tokensregex/color.input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/tokensregex/color.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/tokensregex/color.rules.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/tokensregex/retokenize.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/xom-1.2.10-src.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-corenlp-full-2018-10-05/xom.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Libraries/stanford-english-corenlp-2018-10-05-models.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab3/.idea/libraries/commons_math3_3_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SALab3/.idea/libraries/commons_math3_3_6_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SALab3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab3/out/production/SALab3/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SALab3/out/production/SALab3/sample/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab3/out/production/SALab3/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SALab3/out/production/SALab3/sample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab3/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SALab3/src/sample/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SALab3/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SALab3/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/culture/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/culture/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/medicine/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/medicine/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/medicine/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/medicine/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/medicine/4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/medicine/5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/medicine/6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/medicine/7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/medicine/8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/medicine/9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StanfordLemmatizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StanfordLemmatizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StanfordLemmatizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StanfordLemmatizer.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StanfordLemmatizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="194" column="42" selection-start-line="194" selection-start-column="42" selection-end-line="194" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../Libraries/org.jzy3d-0.9-src.jar!/org/jzy3d/colors/Color.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.3</find>
+      <find>.9</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.1</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/text.txt" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/StanfordLemmatizer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="579" />
+    <option name="y" value="-21" />
+    <option name="width" value="1050" />
+    <option name="height" value="570" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SALab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SALab4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SALab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SALab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SALab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SALab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SALab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SALab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SALab3" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ivanf\IdeaProjects\system_analysis\SALab4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="StanfordLemmatizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="StanfordLemmatizer" />
+      <module name="SALab4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StanfordLemmatizer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2490e7f8-1b66-4eec-a8c5-af81ba8bf161" name="Default Changelist" comment="" />
+      <created>1555715296896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555715296896</updated>
+      <workItem from="1555715298516" duration="8492000" />
+      <workItem from="1555796846182" duration="4825000" />
+      <workItem from="1555801896479" duration="4826000" />
+      <workItem from="1555846713002" duration="581000" />
+      <workItem from="1555860779896" duration="123000" />
+      <workItem from="1555891044319" duration="2463000" />
+      <workItem from="1555935078588" duration="436000" />
+      <workItem from="1555967471467" duration="677000" />
+      <workItem from="1556063043468" duration="808000" />
+      <workItem from="1556476677309" duration="4277000" />
+      <workItem from="1556568327347" duration="13648000" />
+      <workItem from="1556612908916" duration="6551000" />
+      <workItem from="1556628219343" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47733000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="579" y="-21" width="1050" height="570" extended-state="1" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14242424" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2892741" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>map</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SALab4.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/StanfordLemmatizer.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.txt" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medicine/0">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medicine/2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphics/1" />
+    <entry file="file://$PROJECT_DIR$/medicine/1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medicine/3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medicine/4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atheism/0">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StanfordLemmatizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="194" column="42" selection-start-line="194" selection-start-column="42" selection-end-line="194" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Libraries/org.jzy3d-0.9-src.jar!/org/jzy3d/colors/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_181</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SALab4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gluegen-rt-2.1.3-natives-windows-amd64</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
